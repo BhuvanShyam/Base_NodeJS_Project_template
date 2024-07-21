@@ -41,7 +41,7 @@ Options:
 Please specify a command
 __________________________________________________________________________________________________________________________
 
-Inside the src/config folder create a file named as `config.json` and the following code:
+Inside the src/config folder create a file named as `config.json` and the following code: or `npx sequilize init`
 
 
 {
